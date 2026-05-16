@@ -37,7 +37,7 @@ h1, h2, h3 { font-family: 'Syne', sans-serif !important; font-weight: 800; }
 }
 .metric-card .value {
     font-family: 'Syne', sans-serif;
-    font-size: 2.2rem;
+    font-size: 1.5rem;
     font-weight: 800;
     color: #FF5A5F;
 }
